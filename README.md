@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vasudha511
+- 👋 Hi, I’m @VasudhaCN
 - 👀 I’m interested in Firmware, Embedded Systems, RTL Design
 - 📫 How to reach me vasudha.cn@gmail.com
 
