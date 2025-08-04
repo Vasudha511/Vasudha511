@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Vasudha511
-- 👀 I’m interested in python, image processing
-- 🌱 I’m currently learning python,dsa
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Firmware, Embedded Systems, RTL Design
 - 📫 How to reach me vasudha.cn@gmail.com
 
 <!---
